@@ -16,4 +16,6 @@ npm install
 ```
 
 ## Run project
-```npm start```
+```
+npm start
+```
